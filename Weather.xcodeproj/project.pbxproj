@@ -101,6 +101,7 @@
 		6A2AE2C023E4ABF50010221A = {
 			isa = PBXGroup;
 			children = (
+				8245B80823FACEF9007F30C7 /* README.md */,
 				6A2AE2CB23E4ABF50010221A /* Weather */,
 				6A2AE2E223E4ABF70010221A /* WeatherTests */,
 				6A2AE2CA23E4ABF50010221A /* Products */,
@@ -128,7 +129,6 @@
 				6A2AE2CC23E4ABF50010221A /* AppDelegate.swift */,
 				6A2AE2CE23E4ABF50010221A /* SceneDelegate.swift */,
 				6A2AE2DA23E4ABF70010221A /* Info.plist */,
-				8245B80823FACEF9007F30C7 /* README.md */,
 			);
 			path = Weather;
 			sourceTree = "<group>";
