@@ -1,0 +1,726 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/Api.swift",
+      "line": 4,
+      "symbol": "NoContent",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/Api.swift",
+      "line": 6,
+      "symbol": "Api",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/Api.swift",
+      "line": 9,
+      "symbol": "Api.init(endpoint:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/Api.swift",
+      "line": 13,
+      "symbol": "Api.fireInTheHole()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/Api.swift",
+      "line": 131,
+      "symbol": "prepareBody(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/ApiEndpointExposable.swift",
+      "line": 3,
+      "symbol": "ApiEndpointExposable",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/ApiEndpointExposable.swift",
+      "line": 4,
+      "symbol": "ApiEndpointExposable.baseURL",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/ApiEndpointExposable.swift",
+      "line": 5,
+      "symbol": "ApiEndpointExposable.path",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/ApiEndpointExposable.swift",
+      "line": 6,
+      "symbol": "ApiEndpointExposable.method",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/ApiEndpointExposable.swift",
+      "line": 7,
+      "symbol": "ApiEndpointExposable.parameters",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/ApiEndpointExposable.swift",
+      "line": 8,
+      "symbol": "ApiEndpointExposable.body",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/ApiEndpointExposable.swift",
+      "line": 9,
+      "symbol": "ApiEndpointExposable.isTokenNeeded",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/ApiEndpointExposable.swift",
+      "line": 10,
+      "symbol": "ApiEndpointExposable.customHeaders",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/ApiEndpointExposable.swift",
+      "line": 11,
+      "symbol": "ApiEndpointExposable.absoluteStringUrl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/ApiEndpointExposable.swift",
+      "line": 12,
+      "symbol": "ApiEndpointExposable.shouldAppendBody",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/ApiEndpointExposable.swift",
+      "line": 15,
+      "symbol": "ApiEndpointExposable",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/ApiEndpointExposable.swift",
+      "line": 16,
+      "symbol": "ApiEndpointExposable.baseURL",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/ApiEndpointExposable.swift",
+      "line": 23,
+      "symbol": "ApiEndpointExposable.absoluteStringUrl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/ApiEndpointExposable.swift",
+      "line": 27,
+      "symbol": "ApiEndpointExposable.shouldAppendBody",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/ApiEndpointExposable.swift",
+      "line": 31,
+      "symbol": "ApiEndpointExposable.method",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/ApiEndpointExposable.swift",
+      "line": 35,
+      "symbol": "ApiEndpointExposable.parameters",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/ApiEndpointExposable.swift",
+      "line": 39,
+      "symbol": "ApiEndpointExposable.body",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/ApiEndpointExposable.swift",
+      "line": 43,
+      "symbol": "ApiEndpointExposable.isTokenNeeded",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/ApiEndpointExposable.swift",
+      "line": 47,
+      "symbol": "ApiEndpointExposable.customHeaders",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/ApiError.swift",
+      "line": 3,
+      "symbol": "ApiError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/ApiError.swift",
+      "line": 4,
+      "symbol": "ApiError.notFound",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/ApiError.swift",
+      "line": 5,
+      "symbol": "ApiError.unauthorized",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/ApiError.swift",
+      "line": 6,
+      "symbol": "ApiError.badRequest",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/ApiError.swift",
+      "line": 7,
+      "symbol": "ApiError.connectionFailure",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/ApiError.swift",
+      "line": 8,
+      "symbol": "ApiError.decodeError(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/ApiError.swift",
+      "line": 9,
+      "symbol": "ApiError.malformedRequest",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/ApiError.swift",
+      "line": 10,
+      "symbol": "ApiError.serverError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/ApiError.swift",
+      "line": 11,
+      "symbol": "ApiError.timeout",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/ApiError.swift",
+      "line": 12,
+      "symbol": "ApiError.unknown(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPMethod.swift",
+      "line": 3,
+      "symbol": "HTTPMethod",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPMethod.swift",
+      "line": 4,
+      "symbol": "HTTPMethod.get",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPMethod.swift",
+      "line": 5,
+      "symbol": "HTTPMethod.post",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPMethod.swift",
+      "line": 6,
+      "symbol": "HTTPMethod.patch",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPMethod.swift",
+      "line": 7,
+      "symbol": "HTTPMethod.put",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPMethod.swift",
+      "line": 8,
+      "symbol": "HTTPMethod.delete",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 3,
+      "symbol": "HTTPStatusCode",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 5,
+      "symbol": "HTTPStatusCode.continue",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 6,
+      "symbol": "HTTPStatusCode.switchingProtocols",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 7,
+      "symbol": "HTTPStatusCode.processing",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 9,
+      "symbol": "HTTPStatusCode.ok",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 10,
+      "symbol": "HTTPStatusCode.created",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 11,
+      "symbol": "HTTPStatusCode.accepted",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 12,
+      "symbol": "HTTPStatusCode.nonAuthoritativeInformation",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 13,
+      "symbol": "HTTPStatusCode.noContent",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 14,
+      "symbol": "HTTPStatusCode.resetContent",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 15,
+      "symbol": "HTTPStatusCode.partialContent",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 16,
+      "symbol": "HTTPStatusCode.multiStatus",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 17,
+      "symbol": "HTTPStatusCode.alreadyReported",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 18,
+      "symbol": "HTTPStatusCode.iMUsed",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 20,
+      "symbol": "HTTPStatusCode.multipleChoices",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 21,
+      "symbol": "HTTPStatusCode.movedPermanently",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 22,
+      "symbol": "HTTPStatusCode.found",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 23,
+      "symbol": "HTTPStatusCode.seeOther",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 24,
+      "symbol": "HTTPStatusCode.notModified",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 25,
+      "symbol": "HTTPStatusCode.useProxy",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 26,
+      "symbol": "HTTPStatusCode.switchProxy",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 27,
+      "symbol": "HTTPStatusCode.temporaryRedirect",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 28,
+      "symbol": "HTTPStatusCode.permanentRedirect",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 30,
+      "symbol": "HTTPStatusCode.badRequest",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 31,
+      "symbol": "HTTPStatusCode.unauthorized",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 32,
+      "symbol": "HTTPStatusCode.paymentRequired",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 33,
+      "symbol": "HTTPStatusCode.forbidden",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 34,
+      "symbol": "HTTPStatusCode.notFound",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 35,
+      "symbol": "HTTPStatusCode.methodNotAllowed",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 36,
+      "symbol": "HTTPStatusCode.notAcceptable",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 37,
+      "symbol": "HTTPStatusCode.proxyAuthenticationRequired",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 38,
+      "symbol": "HTTPStatusCode.requestTimeout",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 39,
+      "symbol": "HTTPStatusCode.conflict",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 40,
+      "symbol": "HTTPStatusCode.gone",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 41,
+      "symbol": "HTTPStatusCode.lengthRequired",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 42,
+      "symbol": "HTTPStatusCode.preconditionFailed",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 43,
+      "symbol": "HTTPStatusCode.payloadTooLarge",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 44,
+      "symbol": "HTTPStatusCode.uriTooLong",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 45,
+      "symbol": "HTTPStatusCode.unsupportedMediaType",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 46,
+      "symbol": "HTTPStatusCode.rangeNotSatisfiable",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 47,
+      "symbol": "HTTPStatusCode.expectationFailed",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 48,
+      "symbol": "HTTPStatusCode.imATeapot",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 49,
+      "symbol": "HTTPStatusCode.misdirectedRequest",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 50,
+      "symbol": "HTTPStatusCode.unprocessableEntity",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 51,
+      "symbol": "HTTPStatusCode.locked",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 52,
+      "symbol": "HTTPStatusCode.failedDependency",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 53,
+      "symbol": "HTTPStatusCode.upgradeRequired",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 54,
+      "symbol": "HTTPStatusCode.preconditionRequired",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 55,
+      "symbol": "HTTPStatusCode.tooManyRequests",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 56,
+      "symbol": "HTTPStatusCode.requestHeaderFieldsTooLarge",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 57,
+      "symbol": "HTTPStatusCode.unavailableForLegalReasons",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 59,
+      "symbol": "HTTPStatusCode.internalServerError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 60,
+      "symbol": "HTTPStatusCode.notImplemented",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 61,
+      "symbol": "HTTPStatusCode.badGateway",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 62,
+      "symbol": "HTTPStatusCode.serviceUnavailable",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 63,
+      "symbol": "HTTPStatusCode.gatewayTimeout",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 64,
+      "symbol": "HTTPStatusCode.httpVersionNotSupported",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 65,
+      "symbol": "HTTPStatusCode.variantAlsoNegotiates",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 66,
+      "symbol": "HTTPStatusCode.insufficientStorage",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 67,
+      "symbol": "HTTPStatusCode.loopDetected",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 68,
+      "symbol": "HTTPStatusCode.notExtended",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/HTTPStatusCode.swift",
+      "line": 69,
+      "symbol": "HTTPStatusCode.networkAuthenticationRequired",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/leonardo.oliveira/Developer/WeatherApp/Weather/Api/URLSessionable.swift",
+      "line": 3,
+      "symbol": "URLSessionable",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/leonardo.oliveira/Developer/WeatherApp"
+}
